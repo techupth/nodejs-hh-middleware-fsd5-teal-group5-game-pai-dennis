@@ -1,0 +1,27 @@
+
+IP: ::1, Method: GET, Endpoint: /assignmentsIP: ::1, Method: POST, Endpoint: /assignments
+IP: ::1, Method: POST, Endpoint: /assignments/2/comments
+IP: ::1, Method: POST, Endpoint: /assignments/2/comments
+IP: ::1, Method: POST, Endpoint: /assignments/2/comments
+IP: ::1, Method: POST, Endpoint: /assignments/2/comments
+IP: ::1, Method: POST, Endpoint: /assignments/2/comments
+IP: ::1, Method: POST, Endpoint: /assignments/2/comments
+IP: ::1, Method: POST, Endpoint: /assignments/2/comments
+IP: ::1, Method: POST, Endpoint: /assignments/2/comments
+IP: ::1, Method: POST, Endpoint: /assignments/2/comments
+IP: ::1, Method: PUT, Endpoint: /assignments/2
+IP: ::1, Method: PUT, Endpoint: /assignments/2
+IP: ::1, Method: POST, Endpoint: /assignments/2/comments
+IP: ::1, Method: POST, Endpoint: /assignments/2/comments
+IP: ::1, Method: POST, Endpoint: /assignments/2/comments
+IP: ::1, Method: POST, Endpoint: /assignments/2/comments
+IP: ::1, Method: POST, Endpoint: /assignments/2/comments
+IP: ::1, Method: POST, Endpoint: /assignments/2/comments
+IP: ::1, Method: POST, Endpoint: /assignments/2/comments
+IP: ::1, Method: POST, Endpoint: /assignments/2/comments
+IP: ::1, Method: POST, Endpoint: /assignments/2/comments
+IP: ::1, Method: POST, Endpoint: /assignments/2/comments
+IP: ::1, Method: POST, Endpoint: /assignments/2/comments
+IP: ::1, Method: POST, Endpoint: /assignments/2/comments
+IP: ::1, Method: POST, Endpoint: /assignments/2/comments
+IP: ::1, Method: POST, Endpoint: /assignments/2/comments
